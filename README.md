@@ -29,7 +29,7 @@ without ever touching your original save. Every change goes into a fresh, verifi
 | 🚗 **World** | Every garage vehicle, fast travel points, quest-fact shortcuts (romance, Johnny), position, game clock, recipes, wardrobe |
 | 🎨 **Appearance** | Voice, body type, appearance presets (export / import), cyber-arm look fix |
 | 🔁 **Moving saves** | Xbox → Steam / PC and back, a copy for games without Phantom Liberty, full save-folder backups |
-| 🏷️ **Load-menu label** | Edited saves get a banner on their load-menu picture so you can spot them in game |
+| 🏷️ **Load-menu message** | On Review, set the bottom caption stamped on the save's load-menu picture |
 
 One-click bundles: **Give everything**, **Give basics**, **Max attributes & skills**, **Unlock all vehicles**.
 
@@ -48,20 +48,20 @@ The app opens in the new layout (step tracker, save thumbnails, section badges).
 
 ## ⬇️ Download & install
 
-1. Grab **`NightshiftSaveStudio-1.0.0-portable.zip`** from the [latest release](https://github.com/Squ1ggs/Nightshift-Save-Studio/releases/latest).
+1. Grab **`NightshiftSaveStudio-1.0.1-portable.zip`** from the [latest release](https://github.com/Squ1ggs/Nightshift-Save-Studio/releases/latest).
 2. Extract it anywhere (your Documents folder is fine) and run **`NightshiftSaveStudio.exe`** inside the `NightshiftSaveStudio` folder.
 3. Windows SmartScreen may say the app is from an unknown publisher (it isn't code-signed). Click **More info → Run anyway**.
 
-To update, extract a newer release over the same folder — your exports, backups and settings stay.
+To update, extract a newer release over the same folder — your exports, backups and settings stay. **1.0.1** makes Tune item values clearer (Set value) and moves the load-menu bottom message under the Review list.
 
 ## 🚀 Quick start
 
 1. **Close the game** and give cloud sync a moment.
 2. **Pick a save** on the left and click **Open save**. The app works on a copy.
 3. **Edit** — quick actions on the Overview, or any section. Nothing is written yet; changes are staged.
-4. **Review** your changes, undo what you don't want (Ctrl+Z), then **Save edited copy** (Ctrl+S).
+4. **Review** your changes, undo what you don't want (Ctrl+Z), set the **bottom message on load picture**, then **Save edited copy** (Ctrl+S).
 5. **Install** it: as a new Steam / PC save, over an existing one (backed up first), or into an Xbox slot.
-6. Load it in game — look for your label on the save picture.
+6. Load it in game — look for your caption on the save picture.
 
 ### 🎮 Xbox saves
 

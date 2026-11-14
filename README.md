@@ -48,11 +48,11 @@ The app opens in the new layout (step tracker, save thumbnails, section badges).
 
 ## ⬇️ Download & install
 
-1. Grab **`NightshiftSaveStudio-1.0.1-portable.zip`** from the [latest release](https://github.com/Squ1ggs/Nightshift-Save-Studio/releases/latest).
+1. Grab **`NightshiftSaveStudio-1.0.2-portable.zip`** from the [latest release](https://github.com/Squ1ggs/Nightshift-Save-Studio/releases/latest).
 2. Extract it anywhere (your Documents folder is fine) and run **`NightshiftSaveStudio.exe`** inside the `NightshiftSaveStudio` folder.
 3. Windows SmartScreen may say the app is from an unknown publisher (it isn't code-signed). Click **More info → Run anyway**.
 
-To update, extract a newer release over the same folder — your exports, backups and settings stay. **1.0.1** makes Tune item values clearer (Set value) and moves the load-menu bottom message under the Review list.
+To update, extract a newer release over the same folder — your exports, backups and settings stay. **1.0.2** polishes Tune item (Set value) and puts the load-menu bottom message under the Review list.
 
 ## 🚀 Quick start
 
